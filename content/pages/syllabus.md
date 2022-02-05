@@ -24,10 +24,39 @@ Grading and Requirements
 
 The course grade will be based on three non-cumulative exams and approximately nine problem sets.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Three non-cumulative exams | 80% |
-| Approximately 9 problem sets | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three non-cumulative exams
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Approximately 9 problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The exams will be closed book. The problem sets will typically be handed out on **Tuesday** and due the following **Tuesday** . You are expected to complete the problem sets on your own and without consulting old problem set solutions - it will clearly be in your interest to understand all of the material on them. Failing to return at least 7 problem sets will result in a maximum final letter grade of D. Regular attendance at the recitation is strongly recommended, as the TA will discuss problem sets, clarify lecture material, and provide other useful guidance.
 
@@ -46,18 +75,179 @@ The exams will be closed book. The problem sets will typically be handed out on 
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Set and Probability Theory |  |
-| 2 | Random Variables, Probability Mass/Density Function, Cumulative Distribution Function (Univariate Model) | Problem set 1 due |
-| 3 | Multiple Random Variables, Bivariate Distribution, Marginal Distribution, Conditional Distribution, Independence, Multivariate Distribution (Multivariate Model) | Problem set 2 due |
-| 4 | Expectation (Moments) | Problem set 3 due |
-| 5 | Review for Exam 1 | Exam 1 |
-| 6 | Random Variable and Random Vector Transformations (Univariate and Multivariate Models) | Problem set 4 due |
-| 7 | Special Distributions (Discrete and Continuous) | Problem set 5 due  {{< br >}}  {{< br >}}Midterm Evaluation |
-| 8 | Review for Exam 2 | Exam 2 |
-| 9 | Random Sample, Law of Large Numbers, Central Limit Theorem | Problem set 6 due |
-| 10 | Point Estimators and Point Estimation Methods | Problem set 7 due |
-| 11 | Interval Estimation and Confidence Intervals | Problem set 8 due |
-| 12 | Hypothesis Testing | Problem set 9 due |
-| 13 | Review for Exam 3 | Exam 3
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Set and Probability Theory
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Random Variables, Probability Mass/Density Function, Cumulative Distribution Function (Univariate Model)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Multiple Random Variables, Bivariate Distribution, Marginal Distribution, Conditional Distribution, Independence, Multivariate Distribution (Multivariate Model)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Expectation (Moments)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Random Variable and Random Vector Transformations (Univariate and Multivariate Models)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Special Distributions (Discrete and Continuous)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due  
+  
+Midterm Evaluation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Random Sample, Law of Large Numbers, Central Limit Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Point Estimators and Point Estimation Methods
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Interval Estimation and Confidence Intervals
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Hypothesis Testing
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Exam 3
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

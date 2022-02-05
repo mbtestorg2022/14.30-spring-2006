@@ -25,20 +25,263 @@ Assigned Readings
 
 Readings are from Ross \[ROS\], Larsen and Marx \[LM\], and DeGroot and Schervish \[DS\]. Note that ROS does not cover all the topics but more closely follows the material taught in class.
 
-| WEEK # | TOPICS | ROS | LM | DS |
-| --- | --- | --- | --- | --- |
-| 1 | Set and Probability Theory | Chapter 3 | Chapters 1.1–1.3, 2.1–2.10 | Chapters 1, 2.1–2.3 |
-| 2 | Random Variables, Probability Mass/Density Function, Cumulative Distribution Function (Univariate Model) | Chapters 4.1–4.2, 5.1, pp. 160-1 | Chapter 3.1–3.4 | Chapter 3.1–3.3 |
-| 3 | Multiple Random Variables, Bivariate Distribution, Marginal Distribution, Conditional Distribution, Independence, Multivariate Distribution (Multivariate Model) | Chapter 4.3 | Chapter 3.5–3.6, 3.9 | Chapter 3.4–3.7 |
-| 4 | Expectation (Moments) | Chapter 4.4–4.9 | Chapter 3.10–3.13, 3.15–3.16 | Chapter 4.1–4.7 |
-| 5 | Review for Exam 1 | &nbsp; |
-| 6 | Random Variable and Random Vector Transformations (Univariate and Multivariate Models) | &nbsp; | Chapter 3.7 | Chapter 3.8–3.9 |
-| 7 | Special Distributions (Discrete and Continuous) | Chapter 5.1–5.8 | Chapters 3.3, 4.1–4.3, 4.5–4.6 | Chapter 5.1–5.6, 5.9 |
-| 8 | Review for Exam 2 | &nbsp; |
-| 9 | Random Sample, Law of Large Numbers, Central Limit Theorem | Chapters 6, 4.9, 1, 2 | Chapters 3.14, pp. 272-5, 5.1, 5.4 | Chapters 4.8, 5.7, 7.1, 7.7 |
-| 10 | Point Estimators and Point Estimation Methods | Chapter 7.7 and 7.1–7.2 | Chapter 5.2 | Chapter 6.5–6.6 |
-| 11 | Interval Estimation and Confidence Intervals | Chapters 7.3–7.6, 5.8.2–5.8.3 | Chapter 5.3 | Chapter 7.5 |
-| 12 | Hypothesis Testing | Chapter 8 | Chapters 6, 9.1–9.2 | Chapter 8 |
-| 13 | Review for Exam 3 | &nbsp; |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ROS
+{{< thclose >}}
+{{< thopen >}}
+LM
+{{< thclose >}}
+{{< thopen >}}
+DS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Set and Probability Theory
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 1.1–1.3, 2.1–2.10
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 1, 2.1–2.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Random Variables, Probability Mass/Density Function, Cumulative Distribution Function (Univariate Model)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 4.1–4.2, 5.1, pp. 160-1
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3.1–3.4
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3.1–3.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Multiple Random Variables, Bivariate Distribution, Marginal Distribution, Conditional Distribution, Independence, Multivariate Distribution (Multivariate Model)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4.3
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3.5–3.6, 3.9
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3.4–3.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Expectation (Moments)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4.4–4.9
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3.10–3.13, 3.15–3.16
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4.1–4.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Random Variable and Random Vector Transformations (Univariate and Multivariate Models)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3.7
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3.8–3.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Special Distributions (Discrete and Continuous)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5.1–5.8
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 3.3, 4.1–4.3, 4.5–4.6
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5.1–5.6, 5.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Random Sample, Law of Large Numbers, Central Limit Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 6, 4.9, 1, 2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 3.14, pp. 272-5, 5.1, 5.4
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 4.8, 5.7, 7.1, 7.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Point Estimators and Point Estimation Methods
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7.7 and 7.1–7.2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5.2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6.5–6.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Interval Estimation and Confidence Intervals
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 7.3–7.6, 5.8.2–5.8.3
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5.3
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Hypothesis Testing
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 6, 9.1–9.2
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Exam 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Advanced topics, time permitting: Bayesian Analysis and Nonparamatric Methods.
