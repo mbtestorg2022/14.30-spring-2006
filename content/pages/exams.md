@@ -34,7 +34,7 @@ Exam 1 ([PDF]({{< baseurl >}}/resources/ex1))
 Exam 1 Formula Sheet ([PDF]({{< baseurl >}}/resources/formulas_exam1))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ex1sol)) (Tonja Bowen Bishop)
+([PDF]({{< baseurl >}}/resources/ex1sol)) (Tonja Bowen Bishop)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +48,7 @@ Exam 2 ([PDF]({{< baseurl >}}/resources/ex2))
 Exam 2 Formula Sheet ([PDF]({{< baseurl >}}/resources/formulas_exam2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ex2sol)) (Tonja Bowen Bishop)
+([PDF]({{< baseurl >}}/resources/ex2sol)) (Tonja Bowen Bishop)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +62,7 @@ Exam 3 ([PDF]({{< baseurl >}}/resources/ex3))
 Exam 3 Formula Sheet ([PDF]({{< baseurl >}}/resources/formulas_exam3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ex3sol)) (Tonja Bowen Bishop)
+([PDF]({{< baseurl >}}/resources/ex3sol)) (Tonja Bowen Bishop)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +74,7 @@ Fall 2004
 Exam 1 ([PDF]({{< baseurl >}}/resources/ex1_f04))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ex1sol_f04)) (Guy Michaels)
+([PDF]({{< baseurl >}}/resources/ex1sol_f04)) (Guy Michaels)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +86,7 @@ Fall 2004
 Exam 2 ([PDF]({{< baseurl >}}/resources/ex2_f04))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ex2sol_f04)) (Bilal Zia)
+([PDF]({{< baseurl >}}/resources/ex2sol_f04)) (Bilal Zia)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ Fall 2004
 Exam 3 ([PDF]({{< baseurl >}}/resources/ex3_f04))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ex3sol_f04)) (Bilal Zia)
+([PDF]({{< baseurl >}}/resources/ex3sol_f04)) (Bilal Zia)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,10 +107,10 @@ Exam 3 ([PDF]({{< baseurl >}}/resources/ex3_f04))
 Fall 2003
 {{< tdclose >}}
 {{< tdopen >}}
-Exam 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ex1_f03))
+Exam 1 ([PDF]({{< baseurl >}}/resources/ex1_f03))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ex1sol_f03)) (Eric Moos)
+([PDF]({{< baseurl >}}/resources/ex1sol_f03)) (Eric Moos)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +122,7 @@ Fall 2003
 Exam 2 ([PDF]({{< baseurl >}}/resources/ex2_f03))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ex2sol_f03)) (Eric Moos)
+([PDF]({{< baseurl >}}/resources/ex2sol_f03)) (Eric Moos)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +134,7 @@ Fall 2003
 Exam 3 ([PDF]({{< baseurl >}}/resources/ex3_f03))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ex3sol_f03)) (Eric Moos)
+([PDF]({{< baseurl >}}/resources/ex3sol_f03)) (Eric Moos)
 {{< tdclose >}}
 
 {{< trclose >}}

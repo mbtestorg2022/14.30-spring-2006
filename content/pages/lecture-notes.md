@@ -100,7 +100,7 @@ Review for Exam 2
 {{< tdopen >}}
 Random Sample, Law of Large Numbers, Central Limit Theorem ([PDF]({{< baseurl >}}/resources/l7))  
   
-Simulations: Magnifying Glass (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/simulations))
+Simulations: Magnifying Glass ([PDF]({{< baseurl >}}/resources/simulations))
 {{< tdclose >}}
 
 {{< trclose >}}
