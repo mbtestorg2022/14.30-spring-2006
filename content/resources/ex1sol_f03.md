@@ -4,6 +4,7 @@ description: This resource contains solutions of the statistics exam 1 for the s
   fall 2003.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/151274f9054ced4cebfb50c677022ae6_ex1sol_f03.pdf
 file_type: application/pdf
+parent_uid: c8394d1a-1cb1-b74a-b4b9-8cb2c6f57ef7
 resourcetype: Document
 title: ex1sol_f03.pdf
 uid: 151274f9-054c-ed4c-ebfb-50c677022ae6
